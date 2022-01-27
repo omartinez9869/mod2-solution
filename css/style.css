@@ -109,7 +109,7 @@
 			{ width: 100%; }
 		}
 		
-		@media (min-width: 768px) and (max-width: 991px)
+		@media (min-width: 768px) and (max-width: 991.9px) 
 		{
 			.col_md_1, .col_md_2, .col_md_3, .col_md_4,.col_md_5,.col_md_6,.col_md_7,.col_md_8,.col_md_9,.col_md_10,.col_md_11,.col_md_12 
 			{
@@ -155,7 +155,7 @@
 			}
 		}
 
-		@media (max-width: 767px) 
+		@media (max-width: 767.9px) 
 		{
 			.col_sm_1, .col_sm_2, .col_sm_3, .col_sm_4,.col_sm_5,.col_sm_6,.col_sm_7,.col_sm_8,.col_sm_9,.col_sm_10,.col_sm_11,.col_sm_12 
 			{
